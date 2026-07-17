@@ -1,5 +1,8 @@
 # ConferenciaLactofest
 
+
+# https://josefernandoguarin.github.io/ConferenciaLactofest/
+
 # Guion de la conferencia
 ## *La finca lechera en tu bolsillo: del suelo al litro*
 **LactoFest 2026 · Entrerríos, Antioquia · Sábado 18 de julio**
@@ -7,14 +10,6 @@ José Fernando Guarín Montoya, Ph.D. — Grupo GAMMA, Facultad de Ciencias Agra
 
 **Duración:** 50 minutos de charla + 10 de preguntas
 **Audiencia:** productores lecheros del Norte de Antioquia, técnicos y público del festival
-
----
-
-## Cómo usar este guion
-
-Cada bloque tiene tres partes: **(⏱ tiempo)** aproximado, **[QUÉ DECIR]** la narración en lenguaje hablado, y **[DESTAQUE APP]** qué mostrar y resaltar cuando abras la herramienta en vivo. Las frases marcadas con « » son para decir casi textual — son los "ganchos" de la charla. Todo lo demás es guía, dilo con tus palabras.
-
-Recomendación general: ten el celular o el computador con las apps ya abiertas en pestañas antes de empezar. Ensaya el gesto de escanear el QR tú mismo para invitarlos a hacerlo.
 
 ---
 
